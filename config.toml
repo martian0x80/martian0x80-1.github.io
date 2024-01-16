@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://martian0x80.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -79,7 +79,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "@martian0x80"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "<insert catchy line>"
+  description = "martian0x80's personal blog"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -209,7 +209,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
     GitHub = "martian0x80"
     Linkedin = ""
-    Twitter = "@c0m94d3"
+    Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = ""
@@ -530,8 +530,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
-      dismiss = ""
+      message = "Cookies lelo?"
+      dismiss = "Ha bilkul"
       link = ""
 
   #  CDN config for third-party library files

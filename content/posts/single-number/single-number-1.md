@@ -1,13 +1,15 @@
 ---
 title: "137. Single Number I (Leetcode)"
 date: 2024-01-16T18:40:00+05:30
-draft: true
+draft: false
 author: "martian0x80"
+categories: ["DSA"]
+description: "Leetcode problem 137. Single Number I solution"
 ---
 
-# [137. Single Number I](https://leetcode.com/problems/single-number/)
-
 ### GDSC Day 1: Leetcode Practice
+
+#### [137. Single Number I](https://leetcode.com/problems/single-number/)
 
 ## Description:
 
